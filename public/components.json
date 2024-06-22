@@ -1,0 +1,32 @@
+{
+    "loginPage": {
+      "components": [
+        {
+          "type": "label",
+          "text": "User Name",
+          "for": "username"
+        },
+        {
+          "type": "textField",
+          "id": "username",
+          "placeholder": "Enter your username"
+        },
+        {
+          "type": "label",
+          "text": "Password",
+          "for": "password"
+        },
+        {
+          "type": "passwordField",
+          "id": "password",
+          "placeholder": "Enter your password"
+        },
+        {
+          "type": "button",
+          "id": "submit",
+          "text": "Submit"
+        }
+      ]
+    }
+  }
+  
