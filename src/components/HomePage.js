@@ -2,7 +2,7 @@ import React from 'react';
 
 const HomePage = () => {
   const navigateToOtherApp = () => {
-    window.location.href = 'https://other-react-app-url.com';
+    window.location.href = 'https://www.youtube.com/';
   };
 
   return (
